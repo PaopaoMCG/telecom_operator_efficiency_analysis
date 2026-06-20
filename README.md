@@ -99,6 +99,9 @@ Se realizaron pruebas de hipótesis U de Mann-Whitney para validar si los operad
 ### Análisis exploratorio del comportamiento de llamadas 
 ![Dashboard](https://github.com/PaopaoMCG/telecom_operator_efficiency_analysis/blob/322fc59eaa36e4a53ea65a253e927300f8dbc8c1/Dashboard%201_%20EDA%20-%20Comportamiento%20de%20llamadas.png)
 
+### Operadores ineficientes 
+![Dashboard](https://github.com/PaopaoMCG/telecom_operator_efficiency_analysis/blob/334d40565da9c484871d6225021cf49aeac46f43/Dashboard%202.png)
+
 ### Versión interactiva
 
 https://public.tableau.com/views/ProyectoFinalTelecomunicaiones/Dashboard1EDA-Comportamientodellamadas?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link
