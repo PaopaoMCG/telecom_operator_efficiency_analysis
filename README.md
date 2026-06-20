@@ -96,6 +96,13 @@ Se realizaron pruebas de hipótesis U de Mann-Whitney para validar si los operad
 - Índice de llamadas perdidas
 - Operadores ineficientes identificados
 
+### Análisis exploratorio del comportamiento de llamadas 
+![Dashboard](https://github.com/PaopaoMCG/telecom_operator_efficiency_analysis/blob/322fc59eaa36e4a53ea65a253e927300f8dbc8c1/Dashboard%201_%20EDA%20-%20Comportamiento%20de%20llamadas.png)
+
+### Versión interactiva
+
+https://public.tableau.com/views/ProyectoFinalTelecomunicaiones/Dashboard1EDA-Comportamientodellamadas?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link
+
 ## Visualizaciones
 - Distribución de llamadas entrantes frente a salientes
 - Clasificación del rendimiento de los operadores
